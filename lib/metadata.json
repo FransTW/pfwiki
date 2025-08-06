@@ -1,12 +1,14 @@
 {
   "vaultName": "PFWiki",
-  "lastExport": 1754380217863,
+  "lastExport": 1754487671215,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
     "Notes/Design/Design.md",
+    "Notes/Environment/Problem space/attachments/Pasted image 20250806124439.png",
+    "Notes/Environment/Problem space/attachments/Pasted image 20250806145705.png",
     "Notes/Environment/Problem space/attachments/problem framing.jpg",
     "Notes/Environment/Problem space/attachments/Stakeholder map.jpg",
     "Notes/Environment/Problem space/attachments/Stakeholder map2.jpg",
@@ -17,6 +19,7 @@
     "Notes/Environment/Problem space/STEEPV/Social.md",
     "Notes/Environment/Problem space/STEEPV/Technological.md",
     "Notes/Environment/Problem space/STEEPV/Value.md",
+    "Notes/Environment/Problem space/Mapping the systems.md",
     "Notes/Environment/Problem space/Problem scope.md",
     "Notes/Environment/Problem space/Stakeholders.md",
     "Notes/Environment/Environment.md",
@@ -24,6 +27,7 @@
     "Notes/Knowledge base/Frameworks/attachments/Stakeholder map.jpg",
     "Notes/Knowledge base/Frameworks/attachments/Stakeholder map2.jpg",
     "Notes/Knowledge base/Frameworks/attachments/STEEPV.jpg",
+    "Notes/Knowledge base/Frameworks/Causal loop diagram.md",
     "Notes/Knowledge base/Frameworks/design science research.md",
     "Notes/Knowledge base/Frameworks/Frameworks.md",
     "Notes/Knowledge base/Frameworks/Problem framing.md",
@@ -180,7 +184,7 @@
   ],
   "fileInfo": {
     "Notes/Project proposal/Assignment approach.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 5379,
       "exportedPath": "notes/project-proposal/assignment-approach.html",
       "dependencies": [
@@ -190,37 +194,37 @@
       ]
     },
     "Notes/Project proposal/Assignment description.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 5124,
       "exportedPath": "notes/project-proposal/assignment-description.html",
       "dependencies": []
     },
     "Notes/Project proposal/Project proposal.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 539,
       "exportedPath": "notes/project-proposal/project-proposal.html",
       "dependencies": []
     },
     "Sources/gershenfeld2012/gershenfeld2012.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 15148,
       "exportedPath": "sources/gershenfeld2012/gershenfeld2012.html",
       "dependencies": []
     },
     "Sources/johansson2005/johansson2005.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 16997,
       "exportedPath": "sources/johansson2005/johansson2005.html",
       "dependencies": []
     },
     "Sources/kara2022/attachments/kara2022-2-x295-y305.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 278321,
       "exportedPath": "sources/kara2022/attachments/kara2022-2-x295-y305.png",
       "dependencies": []
     },
     "Sources/kara2022/kara2022.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 14897,
       "exportedPath": "sources/kara2022/kara2022.html",
       "dependencies": [
@@ -228,7 +232,7 @@
       ]
     },
     "Sources/kohtala2015/kohtala2015.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 11446,
       "exportedPath": "sources/kohtala2015/kohtala2015.html",
       "dependencies": [
@@ -239,235 +243,235 @@
       ]
     },
     "Sources/Sources.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 405,
       "exportedPath": "sources/sources.html",
       "dependencies": []
     },
     "Terms/bio-based materials lab.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 44,
       "exportedPath": "terms/bio-based-materials-lab.html",
       "dependencies": []
     },
     "Terms/circular economy.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 40,
       "exportedPath": "terms/circular-economy.html",
       "dependencies": []
     },
     "Terms/distributed economies.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 40,
       "exportedPath": "terms/distributed-economies.html",
       "dependencies": []
     },
     "Terms/open-source appropriate technologies.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 44,
       "exportedPath": "terms/open-source-appropriate-technologies.html",
       "dependencies": []
     },
     "Terms/personal fabrication.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 52,
       "exportedPath": "terms/personal-fabrication.html",
       "dependencies": []
     },
     "Terms/Terms.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 552,
       "exportedPath": "terms/terms.html",
       "dependencies": []
     },
     "Terms/triple bottom line.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 75,
       "exportedPath": "terms/triple-bottom-line.html",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 1087,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "sources/kara2022/attachments/kara2022-2-x295-y305.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 278321,
       "exportedPath": "sources/kara2022/attachments/kara2022-2-x295-y305.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/media/2308ab1944a6bfa5c5b8.svg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 278,
       "exportedPath": "lib/media/2308ab1944a6bfa5c5b8.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1754380217863,
-      "sourceSize": 57283,
+      "modifiedTime": 1754487671215,
+      "sourceSize": 58855,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/media/favicon.jpeg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 11769,
       "exportedPath": "lib/media/favicon.jpeg",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 159165,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Sources/berke1999/berke1999.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3937,
       "exportedPath": "sources/berke1999/berke1999.html",
       "dependencies": []
     },
     "Sources/dacostajunior2024/dacostajunior2024.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 18607,
       "exportedPath": "sources/dacostajunior2024/dacostajunior2024.html",
       "dependencies": []
     },
     "Sources/janstappers2014/janstappers2014.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2010,
       "exportedPath": "sources/janstappers2014/janstappers2014.html",
       "dependencies": []
     },
     "Sources/maedche2020/attachments/maedche2020-5-x70-y403.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 266956,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-5-x70-y403.png",
       "dependencies": []
     },
     "Sources/maedche2020/attachments/maedche2020-7-x92-y412.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 464062,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-7-x92-y412.png",
       "dependencies": []
     },
     "Sources/maedche2020/attachments/maedche2020-11-x105-y314.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 171213,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-11-x105-y314.png",
       "dependencies": []
     },
     "Sources/maedche2020/attachments/maedche2020-16-x96-y380.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 86979,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-16-x96-y380.png",
       "dependencies": []
     },
     "Sources/maedche2020/maedche2020.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3978,
       "exportedPath": "sources/maedche2020/maedche2020.html",
       "dependencies": [
@@ -478,115 +482,115 @@
       ]
     },
     "Terms/additive manufacturing.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 41,
       "exportedPath": "terms/additive-manufacturing.html",
       "dependencies": []
     },
     "lib/media/maedche2020-7-x92-y412.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 464062,
       "exportedPath": "lib/media/maedche2020-7-x92-y412.png",
       "dependencies": []
     },
     "lib/media/maedche2020-5-x70-y403.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 266956,
       "exportedPath": "lib/media/maedche2020-5-x70-y403.png",
       "dependencies": []
     },
     "sources/maedche2020/attachments/maedche2020-5-x70-y403.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 266956,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-5-x70-y403.png",
       "dependencies": []
     },
     "sources/maedche2020/attachments/maedche2020-7-x92-y412.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 464062,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-7-x92-y412.png",
       "dependencies": []
     },
     "sources/maedche2020/attachments/maedche2020-11-x105-y314.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 171213,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-11-x105-y314.png",
       "dependencies": []
     },
     "sources/maedche2020/attachments/maedche2020-16-x96-y380.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 86979,
       "exportedPath": "sources/maedche2020/attachments/maedche2020-16-x96-y380.png",
       "dependencies": []
     },
     "Notes/Design/Design.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 364,
       "exportedPath": "notes/design/design.html",
       "dependencies": []
     },
     "Notes/Environment/Problem space/attachments/problem framing.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 126076,
       "exportedPath": "notes/environment/problem-space/attachments/problem-framing.jpg",
       "dependencies": []
     },
     "Notes/Environment/Problem space/attachments/Stakeholder map.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 84177,
       "exportedPath": "notes/environment/problem-space/attachments/stakeholder-map.jpg",
       "dependencies": []
     },
     "Notes/Environment/Problem space/attachments/Stakeholder map2.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 54141,
       "exportedPath": "notes/environment/problem-space/attachments/stakeholder-map2.jpg",
       "dependencies": []
     },
     "Notes/Environment/Problem space/attachments/STEEPV.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 108052,
       "exportedPath": "notes/environment/problem-space/attachments/steepv.jpg",
       "dependencies": []
     },
     "Notes/Environment/Problem space/STEEPV/Economic.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 4216,
       "exportedPath": "notes/environment/problem-space/steepv/economic.html",
       "dependencies": []
     },
     "Notes/Environment/Problem space/STEEPV/Environmental.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2350,
       "exportedPath": "notes/environment/problem-space/steepv/environmental.html",
       "dependencies": []
     },
     "Notes/Environment/Problem space/STEEPV/Political.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2368,
       "exportedPath": "notes/environment/problem-space/steepv/political.html",
       "dependencies": []
     },
     "Notes/Environment/Problem space/STEEPV/Social.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3252,
       "exportedPath": "notes/environment/problem-space/steepv/social.html",
       "dependencies": []
     },
     "Notes/Environment/Problem space/STEEPV/Technological.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3548,
       "exportedPath": "notes/environment/problem-space/steepv/technological.html",
       "dependencies": []
     },
     "Notes/Environment/Problem space/STEEPV/Value.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2460,
       "exportedPath": "notes/environment/problem-space/steepv/value.html",
       "dependencies": []
     },
     "Notes/Environment/Problem space/Problem scope.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 302,
       "exportedPath": "notes/environment/problem-space/problem-scope.html",
       "dependencies": [
@@ -595,7 +599,7 @@
       ]
     },
     "Notes/Environment/Problem space/Stakeholders.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 780,
       "exportedPath": "notes/environment/problem-space/stakeholders.html",
       "dependencies": [
@@ -604,37 +608,37 @@
       ]
     },
     "Notes/Environment/Environment.md": {
-      "modifiedTime": 1754380217863,
-      "sourceSize": 369,
+      "modifiedTime": 1754487671215,
+      "sourceSize": 396,
       "exportedPath": "notes/environment/environment.html",
       "dependencies": []
     },
     "Notes/Knowledge base/Frameworks/attachments/problem framing.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 55733,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/problem-framing.jpg",
       "dependencies": []
     },
     "Notes/Knowledge base/Frameworks/attachments/Stakeholder map.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 53702,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/stakeholder-map.jpg",
       "dependencies": []
     },
     "Notes/Knowledge base/Frameworks/attachments/Stakeholder map2.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 20139,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/stakeholder-map2.jpg",
       "dependencies": []
     },
     "Notes/Knowledge base/Frameworks/attachments/STEEPV.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 65690,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/steepv.jpg",
       "dependencies": []
     },
     "Notes/Knowledge base/Frameworks/design science research.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 333,
       "exportedPath": "notes/knowledge-base/frameworks/design-science-research.html",
       "dependencies": [
@@ -645,13 +649,13 @@
       ]
     },
     "Notes/Knowledge base/Frameworks/Frameworks.md": {
-      "modifiedTime": 1754380217863,
-      "sourceSize": 185,
+      "modifiedTime": 1754487671215,
+      "sourceSize": 211,
       "exportedPath": "notes/knowledge-base/frameworks/frameworks.html",
       "dependencies": []
     },
     "Notes/Knowledge base/Frameworks/Problem framing.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 24,
       "exportedPath": "notes/knowledge-base/frameworks/problem-framing.html",
       "dependencies": [
@@ -659,7 +663,7 @@
       ]
     },
     "Notes/Knowledge base/Frameworks/Stakeholder map.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 139,
       "exportedPath": "notes/knowledge-base/frameworks/stakeholder-map.html",
       "dependencies": [
@@ -668,7 +672,7 @@
       ]
     },
     "Notes/Knowledge base/Frameworks/STEEPV.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 141,
       "exportedPath": "notes/knowledge-base/frameworks/steepv.html",
       "dependencies": [
@@ -676,37 +680,37 @@
       ]
     },
     "Notes/Knowledge base/Literature/Literature review.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2700,
       "exportedPath": "notes/knowledge-base/literature/literature-review.html",
       "dependencies": []
     },
     "Notes/Knowledge base/Knowledge base.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 322,
       "exportedPath": "notes/knowledge-base/knowledge-base.html",
       "dependencies": []
     },
     "Notes/Project proposal/attachments/DSR grid.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 78236,
       "exportedPath": "notes/project-proposal/attachments/dsr-grid.jpg",
       "dependencies": []
     },
     "Notes/Project proposal/Orientation/Assignment orientation.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3625,
       "exportedPath": "notes/project-proposal/orientation/assignment-orientation.html",
       "dependencies": []
     },
     "Notes/Project proposal/Orientation/Ideas.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3752,
       "exportedPath": "notes/project-proposal/orientation/ideas.html",
       "dependencies": []
     },
     "Notes/Project proposal/Value proposition.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 6265,
       "exportedPath": "notes/project-proposal/value-proposition.html",
       "dependencies": [
@@ -714,49 +718,49 @@
       ]
     },
     "Sources/dhinesh2022/dhinesh2022.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2644,
       "exportedPath": "sources/dhinesh2022/dhinesh2022.html",
       "dependencies": []
     },
     "Sources/eu-horizon/eu-horizon.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 1044,
       "exportedPath": "sources/eu-horizon/eu-horizon.html",
       "dependencies": []
     },
     "Sources/eu-lex/eu-lex.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 1618,
       "exportedPath": "sources/eu-lex/eu-lex.html",
       "dependencies": []
     },
     "Sources/kohtala2014/attachments/kohtala2014-3-x43-y94.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 121921,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-3-x43-y94.png",
       "dependencies": []
     },
     "Sources/kohtala2014/attachments/kohtala2014-8-x42-y56.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 127054,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-8-x42-y56.png",
       "dependencies": []
     },
     "Sources/kohtala2014/attachments/kohtala2014-8-x311-y67.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 118665,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-8-x311-y67.png",
       "dependencies": []
     },
     "Sources/kohtala2014/attachments/kohtala2014-12-x309-y71.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 117798,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-12-x309-y71.png",
       "dependencies": []
     },
     "Sources/kohtala2014/kohtala2014.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 13201,
       "exportedPath": "sources/kohtala2014/kohtala2014.html",
       "dependencies": [
@@ -767,85 +771,85 @@
       ]
     },
     "Sources/kohtala2015/attachments/kohtala2015a-3-x119-y489.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 624297,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-3-x119-y489.png",
       "dependencies": []
     },
     "Sources/kohtala2015/attachments/kohtala2015a-4-x116-y53.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 613889,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-4-x116-y53.png",
       "dependencies": []
     },
     "Sources/kohtala2015/attachments/kohtala2015a-6-x112-y55.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 600798,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-6-x112-y55.png",
       "dependencies": []
     },
     "Sources/kohtala2015/attachments/kohtala2015a-10-x105-y290.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 375687,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-10-x105-y290.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-50-x60-y833.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3854207,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-50-x60-y833.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-50-x182-y218.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2186078,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-50-x182-y218.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-60-x180-y143.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 7083631,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-60-x180-y143.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-66-x277-y124.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2187409,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-66-x277-y124.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-70-x100-y360.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 1962297,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-70-x100-y360.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-213-x160-y54.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3621223,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-213-x160-y54.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-215-x8-y23.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 10611299,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-215-x8-y23.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-232-x120-y280.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3631917,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-232-x120-y280.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/attachments/tenorio2022-233-x192-y589.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 4268854,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-233-x192-y589.png",
       "dependencies": []
     },
     "Sources/Rosangela2022/Rosangela2022.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3123,
       "exportedPath": "sources/rosangela2022/rosangela2022.html",
       "dependencies": [
@@ -861,256 +865,258 @@
       ]
     },
     "Sources/vonderleyen2024/vonderleyen2024.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 935,
       "exportedPath": "sources/vonderleyen2024/vonderleyen2024.html",
       "dependencies": []
     },
     "Terms/computer aided design.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 42,
       "exportedPath": "terms/computer-aided-design.html",
       "dependencies": []
     },
     "Terms/computer aided manufacturing.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 42,
       "exportedPath": "terms/computer-aided-manufacturing.html",
       "dependencies": []
     },
     "Terms/free open-source software.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 43,
       "exportedPath": "terms/free-open-source-software.html",
       "dependencies": []
     },
     "Terms/open source-software.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 42,
       "exportedPath": "terms/open-source-software.html",
       "dependencies": []
     },
     "Terms/produc service systems.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 42,
       "exportedPath": "terms/produc-service-systems.html",
       "dependencies": []
     },
     "Terms/product life cylce.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 42,
       "exportedPath": "terms/product-life-cylce.html",
       "dependencies": []
     },
     "Terms/sustainable development goals.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 42,
       "exportedPath": "terms/sustainable-development-goals.html",
       "dependencies": []
     },
     "Terms/user interface.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 41,
       "exportedPath": "terms/user-interface.html",
       "dependencies": []
     },
     "Overview.canvas": {
-      "modifiedTime": 1754380217863,
-      "sourceSize": 3080,
+      "modifiedTime": 1754487671215,
+      "sourceSize": 3346,
       "exportedPath": "overview.html",
       "dependencies": [
-        "notes/environment/problem-space/attachments/stakeholder-map.jpg",
-        "notes/environment/problem-space/attachments/stakeholder-map2.jpg",
         "sources/maedche2020/attachments/maedche2020-7-x92-y412.png",
         "notes/project-proposal/attachments/dsr-grid.jpg",
         "sources/maedche2020/attachments/maedche2020-5-x70-y403.png",
         "notes/project-proposal/attachments/dsr-grid.jpg",
+        "notes/environment/problem-space/attachments/stakeholder-map.jpg",
+        "notes/environment/problem-space/attachments/stakeholder-map2.jpg",
         "notes/environment/problem-space/attachments/steepv.jpg",
-        "notes/environment/problem-space/attachments/problem-framing.jpg"
+        "notes/environment/problem-space/attachments/problem-framing.jpg",
+        "notes/environment/problem-space/attachments/pasted-image-20250806124439.png",
+        "notes/environment/problem-space/attachments/pasted-image-20250806145705.png"
       ]
     },
     "notes/environment/problem-space/attachments/steepv.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 108052,
       "exportedPath": "notes/environment/problem-space/attachments/steepv.jpg",
       "dependencies": []
     },
     "notes/environment/problem-space/attachments/problem-framing.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 126076,
       "exportedPath": "notes/environment/problem-space/attachments/problem-framing.jpg",
       "dependencies": []
     },
     "notes/environment/problem-space/attachments/stakeholder-map.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 84177,
       "exportedPath": "notes/environment/problem-space/attachments/stakeholder-map.jpg",
       "dependencies": []
     },
     "notes/environment/problem-space/attachments/stakeholder-map2.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 54141,
       "exportedPath": "notes/environment/problem-space/attachments/stakeholder-map2.jpg",
       "dependencies": []
     },
     "lib/media/maedche2020-11-x105-y314.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 171213,
       "exportedPath": "lib/media/maedche2020-11-x105-y314.png",
       "dependencies": []
     },
     "lib/media/maedche2020-16-x96-y380.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 86979,
       "exportedPath": "lib/media/maedche2020-16-x96-y380.png",
       "dependencies": []
     },
     "notes/knowledge-base/frameworks/attachments/problem-framing.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 55733,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/problem-framing.jpg",
       "dependencies": []
     },
     "notes/knowledge-base/frameworks/attachments/stakeholder-map.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 53702,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/stakeholder-map.jpg",
       "dependencies": []
     },
     "notes/knowledge-base/frameworks/attachments/stakeholder-map2.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 20139,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/stakeholder-map2.jpg",
       "dependencies": []
     },
     "notes/knowledge-base/frameworks/attachments/steepv.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 65690,
       "exportedPath": "notes/knowledge-base/frameworks/attachments/steepv.jpg",
       "dependencies": []
     },
     "notes/project-proposal/attachments/dsr-grid.jpg": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 78236,
       "exportedPath": "notes/project-proposal/attachments/dsr-grid.jpg",
       "dependencies": []
     },
     "sources/kohtala2014/attachments/kohtala2014-3-x43-y94.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 121921,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-3-x43-y94.png",
       "dependencies": []
     },
     "sources/kohtala2014/attachments/kohtala2014-8-x42-y56.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 127054,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-8-x42-y56.png",
       "dependencies": []
     },
     "sources/kohtala2014/attachments/kohtala2014-8-x311-y67.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 118665,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-8-x311-y67.png",
       "dependencies": []
     },
     "sources/kohtala2014/attachments/kohtala2014-12-x309-y71.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 117798,
       "exportedPath": "sources/kohtala2014/attachments/kohtala2014-12-x309-y71.png",
       "dependencies": []
     },
     "sources/kohtala2015/attachments/kohtala2015a-3-x119-y489.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 624297,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-3-x119-y489.png",
       "dependencies": []
     },
     "sources/kohtala2015/attachments/kohtala2015a-4-x116-y53.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 613889,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-4-x116-y53.png",
       "dependencies": []
     },
     "sources/kohtala2015/attachments/kohtala2015a-6-x112-y55.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 600798,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-6-x112-y55.png",
       "dependencies": []
     },
     "sources/kohtala2015/attachments/kohtala2015a-10-x105-y290.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 375687,
       "exportedPath": "sources/kohtala2015/attachments/kohtala2015a-10-x105-y290.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-50-x60-y833.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3854207,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-50-x60-y833.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-50-x182-y218.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2186078,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-50-x182-y218.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-60-x180-y143.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 7083631,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-60-x180-y143.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-66-x277-y124.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 2187409,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-66-x277-y124.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-70-x100-y360.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 1962297,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-70-x100-y360.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-213-x160-y54.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3621223,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-213-x160-y54.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-215-x8-y23.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 10611299,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-215-x8-y23.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-232-x120-y280.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 3631917,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-232-x120-y280.png",
       "dependencies": []
     },
     "sources/rosangela2022/attachments/tenorio2022-233-x192-y589.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 4268854,
       "exportedPath": "sources/rosangela2022/attachments/tenorio2022-233-x192-y589.png",
       "dependencies": []
     },
     "Sources/pearce2010/pearce2010.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 10902,
       "exportedPath": "sources/pearce2010/pearce2010.html",
       "dependencies": []
     },
     "Sources/steffen2003/attachments/steffen2003-3-x87-y466.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 170802,
       "exportedPath": "sources/steffen2003/attachments/steffen2003-3-x87-y466.png",
       "dependencies": []
     },
     "Sources/steffen2003/steffen2003.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 9455,
       "exportedPath": "sources/steffen2003/steffen2003.html",
       "dependencies": [
@@ -1118,15 +1124,54 @@
       ]
     },
     "sources/steffen2003/attachments/steffen2003-3-x87-y466.png": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 170802,
       "exportedPath": "sources/steffen2003/attachments/steffen2003-3-x87-y466.png",
       "dependencies": []
     },
     "Terms/appropriate technology.md": {
-      "modifiedTime": 1754380217863,
+      "modifiedTime": 1754487671215,
       "sourceSize": 41,
       "exportedPath": "terms/appropriate-technology.html",
+      "dependencies": []
+    },
+    "Notes/Environment/Problem space/attachments/Pasted image 20250806124439.png": {
+      "modifiedTime": 1754487671215,
+      "sourceSize": 235315,
+      "exportedPath": "notes/environment/problem-space/attachments/pasted-image-20250806124439.png",
+      "dependencies": []
+    },
+    "Notes/Environment/Problem space/attachments/Pasted image 20250806145705.png": {
+      "modifiedTime": 1754487671215,
+      "sourceSize": 216345,
+      "exportedPath": "notes/environment/problem-space/attachments/pasted-image-20250806145705.png",
+      "dependencies": []
+    },
+    "Notes/Environment/Problem space/Mapping the systems.md": {
+      "modifiedTime": 1754487671215,
+      "sourceSize": 374,
+      "exportedPath": "notes/environment/problem-space/mapping-the-systems.html",
+      "dependencies": [
+        "notes/environment/problem-space/attachments/pasted-image-20250806124439.png",
+        "notes/environment/problem-space/attachments/pasted-image-20250806145705.png"
+      ]
+    },
+    "Notes/Knowledge base/Frameworks/Causal loop diagram.md": {
+      "modifiedTime": 1754487671215,
+      "sourceSize": 45,
+      "exportedPath": "notes/knowledge-base/frameworks/causal-loop-diagram.html",
+      "dependencies": []
+    },
+    "notes/environment/problem-space/attachments/pasted-image-20250806124439.png": {
+      "modifiedTime": 1754487671215,
+      "sourceSize": 235315,
+      "exportedPath": "notes/environment/problem-space/attachments/pasted-image-20250806124439.png",
+      "dependencies": []
+    },
+    "notes/environment/problem-space/attachments/pasted-image-20250806145705.png": {
+      "modifiedTime": 1754487671215,
+      "sourceSize": 216345,
+      "exportedPath": "notes/environment/problem-space/attachments/pasted-image-20250806145705.png",
       "dependencies": []
     }
   }
